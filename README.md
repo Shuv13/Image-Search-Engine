@@ -69,7 +69,7 @@ Input Image → HSV Conversion → Region Segmentation → Histogram Extraction 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/image-search-engine.git
+git clone https://github.com/Shuv13/image-search-engine.git
 cd image-search-engine
 ```
 
@@ -305,40 +305,6 @@ class CombinedDescriptor:
 
 ## Contributing
 
-We welcome contributions! Please see our contributing guidelines:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Areas for Contribution
-
-- Additional image descriptors
-- Web interface development
-- Performance optimizations
-- Documentation improvements
-- Test suite development
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Original tutorial and concept by Adrian Rosebrock at [PyImageSearch](https://pyimagesearch.com)
-- OpenCV community for computer vision tools
-- Contributors and testers who helped improve this project
-
-## Support
-
-If you encounter issues or have questions:
-
-1. Check the [Issues](https://github.com/yourusername/image-search-engine/issues) page
-2. Create a new issue with detailed description
-3. Provide sample images and error messages when possible
-
----
+We welcome contributions! 
 
 **Note**: This is a educational/research project demonstrating CBIR concepts. For production use, consider additional optimizations and error handling.
